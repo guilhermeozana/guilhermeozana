@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guilhermeozana
 - 👀 I’m interested in tech, music and movies
 - 🌱 I’m currently learning Java, Javascript and more
-- 💞️ I’m looking for my first job how programmer
+- 💞️ I’m looking for my first job how developer
 - 📫 How to reach me -> guilhermeozana@hotmail.com
 
 <!---
