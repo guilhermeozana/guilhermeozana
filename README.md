@@ -1,5 +1,5 @@
 # Welcome!
-My name is Guilherme. I'm a Full Stack Developer focoused in Spring Framework, .Net and Angular!
+My name is Guilherme. I'm a Full Stack Web Developer focoused in Asp.Net, Spring Framework and Angular!
 
 ## How to reach me:
 
